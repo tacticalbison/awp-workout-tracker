@@ -3,9 +3,9 @@ import "./App.css";
 function Navbar() {
   return (
     <div className="Navigation">
-      <p>Workout</p>
-      <p>Week 1</p>
-      <p>Day 1</p>
+      <h1>aStrongerYou</h1>
+      {/* <p>Week 1</p>
+      <p>Day 1</p> */}
     </div>
   );
 }
