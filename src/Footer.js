@@ -1,11 +1,10 @@
 import "./App.css";
+import Stopwatch from "./Stopwatch";
 
 function Footer() {
   return (
     <div className="Footer">
-      <button>Start Workout</button>
-      <button>Pause</button>
-      <button>End Workout</button>
+      <Stopwatch />
     </div>
   );
 }

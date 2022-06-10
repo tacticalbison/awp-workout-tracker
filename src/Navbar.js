@@ -8,7 +8,7 @@ function Navbar() {
         <p>Day 3</p>
       </div>
       <h1 id="App-title">aStrongerYou</h1>
-      <div id="test">TB</div>
+      <div id="Profile-Icon">TB</div>
     </div>
   );
 }
