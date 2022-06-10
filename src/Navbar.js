@@ -3,9 +3,12 @@ import "./App.css";
 function Navbar() {
   return (
     <div className="Navigation">
-      <h1>aStrongerYou</h1>
-      {/* <p>Week 1</p>
-      <p>Day 1</p> */}
+      <div id="Program-date">
+        <p>Week 1</p>
+        <p>Day 3</p>
+      </div>
+      <h1 id="App-title">aStrongerYou</h1>
+      <div id="test">TB</div>
     </div>
   );
 }
